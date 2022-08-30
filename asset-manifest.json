@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-todo/static/js/main.1ff6c1da.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-todo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-todo/index.html",
+    "main.1ff6c1da.js.map": "/react-todo/static/js/main.1ff6c1da.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-todo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ff6c1da.js"
+  ]
+}
